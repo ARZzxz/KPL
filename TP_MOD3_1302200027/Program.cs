@@ -12,7 +12,7 @@ namespace TP_MOD3_1302200027
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
-        static void Main()
+        public void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
